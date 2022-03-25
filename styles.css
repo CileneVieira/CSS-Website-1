@@ -1,0 +1,183 @@
+.container {
+    margin: 50px;
+    background-color: #EEEEBDD;
+    text-align: center;
+    position: relative;
+    padding-top: 100px;
+    font-family: fantasy;
+
+}
+
+.hobbies-container {
+    margin: 50px;
+    background-color: #EEEEBDD;
+    text-align: center;
+    position: relative;
+    padding-top: 100px;
+    font-family: fantasy;
+}
+
+.books-table{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+.profile{
+    background-color:#EEEEEE;
+}
+
+.languages{
+    background-color:#EEEEEE;
+
+}
+
+.contact-me{
+    background-color:#EEEEEE;
+
+}
+.podcast-table{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1{
+    width: 10%;
+    margin: 0 auto;
+    color: #5B7DB1;
+}
+
+h2{
+    color: #398AB9;
+}
+
+body{
+    padding: 100px;
+
+}
+
+
+.skills{
+    position: relative;
+    left-margin: 200px;
+    padding-left: 350px;
+ }
+
+
+.languages{
+    position: relative;
+    left-margin: 200px;
+    padding-left: 500px;
+ }
+
+
+.hobbies-container{
+    background-color:#EEEEBDD;
+    text-align: center;
+    font-family: fantasy;
+}
+
+
+.top{
+    background-color:#EEEEEE;
+}
+
+.arts{
+    background-color:#EEEEEE;
+}
+
+
+
+.me_photo{
+    height: 900px;
+}
+
+.contact-picture{
+    height: 300px;
+    border-radius: 50%;
+}
+
+.top-cloud{
+    position: absolute;
+    height: 100px;
+    right: 400px;
+    top: 200px;
+}
+
+.top-cloud1{
+    position: absolute;
+    height: 100px;
+    left: 500px;
+    top: 500px;
+}
+
+.top-cloud2{
+    position: absolute;
+    height: 100px;
+    right: 300px;
+    top: 500px;
+}
+
+.bottom-cloud{
+    position: relative;
+    height: 100px;
+    left: 0px;
+    bottom: 800px;
+}
+
+.profilepicture{
+    max-width: 300px;
+    position: relative;
+    padding-top: 50px;
+    padding-right: 700px;
+}
+
+.skills img{
+    width: 200px;
+    height: 200px,
+    border-radius:50%;
+}
+
+
+.reading_photo{
+    max-height: 800px;
+}
+
+.links img{
+        width: 100px;
+        height: 100px,
+}
+
+
+.hobbies-tab img{
+        width: 100px;
+        height: 100px,
+}
+
+
+.books img{
+    width: 150px;
+    height: 200px;
+    padding: 50px;
+    border-radius: 50%
+}
+
+.podcasts img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+.podcasts{
+    padding-left: 50px;
+}
+.languages img{
+    width: 200px;
+    height: 200px,
+    border-radius: 50%;
+}
+
+.my-art {
+    height:700px;
+}
