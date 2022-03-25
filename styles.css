@@ -68,7 +68,7 @@ body{
 .languages{
     position: relative;
     left-margin: 200px;
-    padding-left: 500px;
+/*     padding-left: 500px; */
  }
 
 
@@ -98,7 +98,7 @@ body{
     border-radius: 50%;
 }
 
-.top-cloud{
+/* .top-cloud{
     position: absolute;
     height: 100px;
     right: 400px;
@@ -125,6 +125,7 @@ body{
     left: 0px;
     bottom: 800px;
 }
+ */
 
 .profilepicture{
     max-width: 300px;
